@@ -13,11 +13,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,intellij)](https://skillicons.dev)<br><br>
-
-## 📫 Contato
-
-![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{gustavz.dev@gmail.com})
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br><br>
 
 ![Gustavo Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavzdev&show_icons=true&theme=dark) <br><br>
 
